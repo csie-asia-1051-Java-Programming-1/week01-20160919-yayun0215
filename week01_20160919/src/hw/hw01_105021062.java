@@ -7,7 +7,7 @@ public class hw01_105021062 {
 		Scanner scn = new Scanner(System.in);
 		System.out.println();
 		int n=scn.nextInt();
-		System.out.println(Math.ceil(Math.log(n)/log(2));
+		System.out.println("Math.ceil(" + n + ")=" + Math.ceil(n));
 		
 
 	}
